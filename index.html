@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Deepfake Dilemma Showcase</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="background-orb orb-a"></div>
+    <div class="background-orb orb-b"></div>
+    <div class="background-grid"></div>
+
+    <div class="page-shell">
+      <header class="topbar glass">
+        <div class="brand-block">
+          <p class="eyebrow">Final Project Showcase</p>
+          <h1>The Deepfake Dilemma</h1>
+        </div>
+
+        <nav class="tab-nav" id="tabNav" aria-label="Primary">
+          <button class="tab-button active" data-tab="overview">Overview</button>
+          <button class="tab-button" data-tab="why">Why This Matters</button>
+          <button class="tab-button" data-tab="materials">Materials</button>
+          <button class="tab-button" data-tab="methodology">Methodology</button>
+          <button class="tab-button" data-tab="results">Results</button>
+          <button class="tab-button" data-tab="recommendations">Recommendations</button>
+        </nav>
+      </header>
+
+      <main class="content-panel">
+        <section class="tab-panel active" id="overview"></section>
+        <section class="tab-panel" id="why"></section>
+        <section class="tab-panel" id="materials"></section>
+        <section class="tab-panel" id="methodology"></section>
+        <section class="tab-panel" id="results"></section>
+        <section class="tab-panel" id="recommendations"></section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

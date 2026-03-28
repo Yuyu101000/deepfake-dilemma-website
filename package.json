@@ -1,0 +1,14 @@
+{
+  "name": "deepfake-dilemma-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shareable presentation app for the Deepfake Dilemma final project.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

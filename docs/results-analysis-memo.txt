@@ -1,0 +1,651 @@
+Deepfake Dilemma Study
+1. Study design and analytic objective	2
+2. Data used	2
+3. Procedural Methodology	2
+4. Analytical Methodology	3
+5. Descriptive results	4
+6. Detailed findings by research question	5
+7. Additional non-numerical results	7
+8. Statistical Significance	8
+9.	8
+a) Takeaways	8
+b) What would strengthen a second-round analysis	9
+10. Limitations	9
+11. Recommendations	10
+12. Conclusion	12
+Appendix	13
+1) Background	13
+2) Raw response matrix (just confidence rating and no yes/no answers)	13
+3) Descriptive statistics	14
+4) Additional observations (to supplement our Mean analysis)	14
+5) Paired T-Test Results (Statistical Significance)	16
+
+
+
+
+
+
+
+
+
+
+
+
+Results Analysis Memorandum
+This memorandum explains, step by step, how the survey results were analyzed and sets out the substantive findings. The analysis is based on the completed participant survey (the “workbook”) containing responses from 20 participants.
+1. Study design and analytic objective
+The study tested whether a realistic deepfake video could shift mock jurors’ judgments toward Defendant B, Alex Rivera, and whether a simple procedural warning, followed by increasingly probative evidence implicating Defendant A, Daniel Mercer, would be sufficient to reverse that effect. The protocol therefore produced repeated measures from the same participants at several  important stages: (1) baseline suspicion of Mercer, (2) confidence that Rivera is guilty of theft after the video, (3) confidence that Rivera is guilty of theft after the authenticity warning, and (4) through (7) confidence that Rivera is guilty of theft after each of the four additional evidence layers are introduced against Mercer. 
+2. Data used
+The participant survey results were contained in an Excel workbook (see raw data attached). Each row in the workbook represented one participant. The relevant variables were the participant’s confidence ratings on a 1 to 5 scale and the yes/no indicators recording whether the participant reported a change in confidence or verdict after each intervention.
+For clarity, the following variables were analyzed, with the “Q” number corresponding to the question number of the experiment: Q1 (initial confidence in Mercer’s guilt), Q2 (confidence in Rivera’s guilt after the deepfake video), Q3 and Q4 (reported change after warning that the authenticity of the CCTV video evidence is being questioned and post-warning confidence that Rivera is guilty), Q5/Q6 through Q11/Q12 (reported change and updated confidence after each of the four evidence layers against Mercer are introduced), and Q13 (final willingness to convict Rivera).
+3. Procedural Methodology
+Participants were framed as mock jurors in a fictional ATM theft case. After providing informed consent, they received a written participant package introducing the scenario and evidence sequentially across five phases, with a survey question after each stage (the participants were slowly walked through the participant package and were monitored before reading each step). 
+Phase 1: Case Background 
+Participants read that on September 14, 2025, approximately $2,000 was stolen from an ATM outside a downtown Toronto convenience store. Initial evidence pointed to Defendant A, Daniel Mercer: he lived two blocks away, had worked nearby, a witness described someone matching his build at the scene around 7:45 p.m., and cell phone data placed him in the area. Participants rated their confidence in Mercer's guilt (Q1, scale 1–5).
+Phase 2: CCTV Video
+Participants were told police had obtained CCTV footage implicating a second suspect, Defendant B, Alex Rivera - a nearby gas station employee. They viewed the video and rated their confidence in Rivera's guilt (Q2) (video attached to this memo). Participants were also shown headshots of both participants (see attached). 
+Phase 3: Authenticity Challenge
+Participants were informed that the footage was being questioned as a potential AI-generated deepfake, with forensic review ongoing. They indicated whether their confidence in Rivera changed and re-rated it (Q3-Q4).
+Phase 4: Layered Counter-Evidence (re: Mercer)
+Four pieces of evidence were introduced (one at a time), with confidence re-assessed after each: (1) Mercer was fired from a nearby job two weeks before the theft; (2) he had overdue rent and financial difficulties; (3) he posted on X two days prior: "I'mmm tired of being down and out,, somethings gotta change 😒💸💸"; and (4) his search history included "How ATM machines work" and "ATM cash box access" in the week before the incident (Q5–Q12).
+Phase 5: Final Verdict
+Participants gave a yes/no decision on whether they would convict Rivera despite the video uncertainty and the counter-evidence pointing to Mercer (Q13), followed by a full debrief.
+4. Analytical Methodology
+	•	Numerical statistics were calculated for every stage of the experiment: the number of observations, mean confidence, median confidence, minimum confidence, and maximum confidence.
+	•	The response distributions were then reviewed at each stage to determine how many participants selected each point on the 1 to 5 point scale. 
+	•	Stage-to-stage changes were then computed for the repeated confidence measures regarding Rivera’s guilt. In practical terms, this meant subtracting each participant’s later confidence score from their immediately preceding score to identify whether the intervention produced a decrease, increase, or no change.
+	•	The yes/no change questions were tabulated separately. These items captured participants’ own perception of whether their confidence changed at each stage, which provides a useful complement to the observed numerical shifts in the confidence ratings.
+	•	Special attention was paid to four outcome questions central to the research objectives: the size of the initial jump toward Rivera’s guilt after the deepfake, the extent of correction after the authenticity warning alone, the evidence layer at which the largest additional decline in confidence against Rivera occurred, and the proportion of participants still willing to convict Rivera at the end of the exercise.
+	•	Lastly, the results were interpreted against the project’s two research questions: the evidentiary threshold required to meaningfully reduce or eliminate a participant’s continued reliance on AI-fabricated evidence once its authenticity has been challenged, and the effectiveness of a standard procedural warning (instructing the jury that the video’s authenticity is disputed) as a safeguard.
+5. Descriptive results
+Stage
+Mean
+Median
+Min
+Max
+Initial confidence in Mercer’s guilt (Q1) 
+2.70
+3.00
+1
+5
+Post-video confidence in Rivera’s guilt (Q2)
+4.15
+4.50
+1
+5
+Post-warning confidence in Rivera’s guilt (Q4)
+3.00
+3.00
+1
+5
+Confidence in Rivera’s guilt after the first layer of  evidence is introduced (Q6)
+2.75
+2.50
+1
+5
+Confidence in Rivera’s guilt after the second layer of evidence is introduced (Q8)
+2.50
+2.00
+1
+5
+Confidence in Rivera’s guilt after the third layer of evidence is introduced  (Q10)
+2.20
+2.00
+1
+5
+Confidence in Rivera’s guilt after the fourth layer of evidence is introduced (Q12)
+1.75
+1.00
+1
+5
+Table 1. Descriptive statistics by study stage.
+Table 1 shows a strong immediate effect of the deepfake video. Mean confidence rose from 2.70 at baseline (confidence in Mercer’s guilt) to 4.15 (confidence in Rivera’s guilt) after participants viewed the video implicating Rivera. Once participants were told that the video’s authenticity was in question, mean confidence in Rivera fell from 4.15 to 3.00. It then declined gradually across the four additional evidence layers, reaching 1.75 at the final confidence stage.
+
+Figure 1. Mean confidence trajectory across the study stages.
+6. Detailed findings by research question
+Research Question 1: How much additional probative evidence was required to meaningfully reduce or eliminate a person’s reliance on the deepfake evidence once its authenticity was challenged?
+The results indicate that no single intervention fully neutralized the deepfake’s effect. Instead, the correction process was cumulative (after introduction of four layers of probative evidence). After the authenticity warning, the mean confidence score fell by 1.15 points, from 4.15 to 3.00. This was the single largest immediate decline in participants’ confidence in  Rivera’s guilt, but it still left participants at the neutral midpoint of the 1 to 5 point scale. In other words, the warning reduced confidence, but it did not fully dislodge the deepfake from participants’ reasoning.
+The additional evidence produced smaller but continued decreases. Mean confidence in Rivera’s guilt fell from 3.00 to 2.75 after Layer 1, to 2.50 after Layer 2, to 2.20 after Layer 3, and to 1.75 after Layer 4. The stage-by-stage mean changes were therefore -0.25, -0.25, -0.30, and -0.45 respectively. This pattern suggests that participants required cumulative reinforcement before confidence in Rivera’s guilt meaningfully collapsed. Put differently, the evidentiary threshold for undoing deepfake influence was not satisfied by one contradictory fact; it required multiple pieces of evidence pointing back to Mercer.
+The distributional results reinforce that conclusion. After the video, 15 of 20 participants rated Rivera’s guilt at either 4 or 5. By the final confidence question regarding Rivera’s guilt (after all layers of additional evidence against Mercer were introduced), 14 of 20 participants had dropped all the way to a confidence level of 1 (toward the “not confident at all” side), while 4 participants remained at 4 or 5 (toward the “100% confident” side). The study therefore appears to reveal two subgroups: a larger group that eventually abandoned the deepfake and a smaller, persistent group that continued to rely on it despite all four evidence layers. This persistent subgroup deserves closer analysis. Examining the raw response matrix, four participants rated Rivera’s guilt at 4 or 5 at every single stage of the study without exception. They were unmoved by the authenticity warning, unmoved by the employment termination evidence, unmoved by the evidence regarding financial difficulties, unmoved by the social media post, and unmoved by the ATM search history. Three of the four participants also gave Mercer a baseline suspicion score of 4 or 5 before the video was even shown, meaning they entered the exercise already highly confident in Mercer’s guilt and ended it equally confident in Rivera’s guilt. This pattern is significant: it suggests that for a meaningful subset of decision-makers, no correction mechanism of the kind tested in this study was capable of dislodging the deepfake’s anchoring effect. That finding has direct implications for the adequacy of cautionary instructions and procedural warnings, which are addressed in the Recommendations section below.
+Research Question 2: Was the procedural warning (simply instructing the jury that the video’s authenticity is being questioned) alone sufficient to correct participants’confidence regarding Alex Rivera's guilt?
+The short answer is no. Although the warning clearly had an effect, it was not sufficient on its own. 14 of the 20 participants (70%) reported that their confidence changed after they learned that the video might be a deepfake, while 6 participants (30%) reported no change at all. Numerically, the mean confidence score regarding Rivera’s guilt dropped by 1.15 points after the authenticity warning. Yet the post-warning mean remained 3.00, which indicates that the average participant did not move into a clearly exculpatory position after being told the video may have been fabricated.
+The clearest indicator of warning insufficiency is the final conviction outcome. Even after the warning and all four layers of additional evidence implicating Mercer were introduced, 4 of the 20 participants (20%) stated that they would still be willing to convict Rivera. These same participants ended with final confidence scores of 4 or 5 regarding Rivera’s guilt.  Moreover, 4 of the 4 final-conviction participants had reported all 4 final-conviction participants self-reported no change after the warning, suggesting that the warning failed entirely for most of this subgroup.
+7. Additional non-numerical results
+
+Outcome
+Yes
+No
+Total
+Yes %
+No %
+Reported change after warning (Q3)
+14
+6
+20
+70.0%
+30.0%
+Reported change after Layer 1 (Q5)
+5
+15
+20
+25.0%
+75.0%
+Reported change after Layer 2 (Q7)
+7
+13
+20
+35.0%
+65.0%
+Reported change after Layer 3 (Q9)
+8
+12
+20
+40.0%
+60.0%
+Reported change after Layer 4 (Q11)
+11
+9
+20
+55.0%
+45.0%
+Final willingness to convict Rivera (Q13)
+4
+16
+20
+20.0%
+80.0%
+Table 2. Self-reported confidence change outcomes and final conviction willingness.
+The yes/no items show that the warning produced the largest self-reported change response until the final evidence layer. Layer 4 also appears to have mattered substantially: 11 participants reported a confidence change after learning about Mercer’s ATM-related search history (highly probative evidence), and the mean confidence score fell by 0.45 at that stage, the largest evidence-layer decline in participants’ confidence regarding Rivera’s guilt.
+At the same time, the four evidence layers were not interchangeable in impacting confidence change. Layer 1 and Layer 2 produced relatively modest changes. Layer 3 and Layer 4 produced stronger declines in confidence, suggesting that evidence became more persuasive as it moved from background motive evidence toward more behaviourally specific evidence, culminating in search history that appeared connected to ATM knowledge and access. This pattern also carries an important practical implication. Restoring participants' confidence in Mercer’s guilt required not just one piece of contradictory evidence, but several, and each piece had to be more specific and directly tied to the crime than the last. In a real courtroom, that mounting obligation could fall on an innocent party. A true but general fact, like losing a nearby job, barely moved participants. Only highly specific, hard-to-dispute evidence (like a direct internet search for ATM access) produced a meaningful shift. This raises a serious concern: once a deepfake is shown to a jury, an innocent party may face an increasingly heavy burden (i.e. to introduce highly probative evidence against another) to prove their innocence. This is deeply troubling. The justice system’s most fundamental promise is that a person is innocent until proven guilty, yet these findings suggest that a single deepfake can quietly reverse that presumption, placing an ever-growing evidentiary burden on a potentially innocent party.
+8. Statistical Significance 
+Because the study produced repeated observations from the same 20 participants, paired t-tests were used to assess whether the main changes were larger than would be expected from random fluctuation alone.
+The increase from baseline suspicion of Mercer (Q1 mean = 2.70) to post-video confidence in Rivera (Q2 mean = 4.15) was statistically significant (p = 0.0006). The decrease from post-video confidence to post-warning confidence (Q2 to Q4) was also statistically significant (p = 0.0003). Across the additional evidence layers, the decline from Q4 to Q6 was directionally negative but only marginal in this small sample (p = 0.0563). The declines from Q6 to Q8, Q8 to Q10, and Q10 to Q12 were statistically significant, with p-values of 0.0210, 0.0102, and 0.0035 respectively. Finally, the overall reduction from post-video confidence (Q2 mean = 4.15) to final confidence after Layer 4 (Q12 mean = 1.75) was highly significant (p < 0.0001). A summary of all paired t-test results is set out in the appendix. 
+9. 
+	•	Takeaways 
+Taken together, the results support three central conclusions. First, the deepfake video had a powerful anchoring effect: it pulled participants away from the initial case against Mercer and toward Rivera, despite the background evidence already implicating Mercer. Second, a standard procedural warning was insufficient to restore participants to a clearly sceptical position. The average participant reduced confidence, but did not move decisively away from Rivera after the warning. Third, only a layered body of additional evidence produced a substantial reversal, and even then a meaningful minority remained willing to convict Rivera.
+These findings are consistent with the broader theory underlying the project: once participants see a persuasive piece of fabricated visual evidence, they do not simply discard it when told it may be false. Instead, they appear to require a replacement account supported by increasingly probative evidence. That is precisely the practical risk posed by deepfakes in court settings. The problem is not merely that fabricated evidence can mislead initially; it is that the misleading effect can persist after the fabrication is exposed. This pattern is directly predicted by the continued influence effect literature that informed the project’s design. Ecker and Antonio (2021) demonstrate that retractions suffer from a credibility handicap: the original misinformation is evaluated as more likely true than the correction, because the correction does not supply an alternative causal explanation. Mickelberg et al. (2025) confirm that retracted evidence continues to influence person impressions even when the retraction is believed, because the narrative gap it creates is subconsciously filled by reverting to the original account. Buczel et al. (2022) found that the continued influence effect can be eliminated only by actively supplying counterarguments rather than passive warnings — a finding that maps directly onto this study’s result that the warning alone was insufficient while cumulative layering of counter-evidence eventually produced a broader reversal. Taken together, the study’s results do not merely replicate the continued influence effect; they replicate it in a legal context, with video evidence, and with a 20% final conviction rate that gives the phenomenon concrete and alarming practical meaning.
+Given the small sample size, the data we collected should be treated as supportive rather than conclusive. Still, they strengthen the descriptive picture: the deepfake caused a real and substantial shift, the warning only partially corrected it, and cumulative contradictory evidence was required to produce a broader reversal.
+	•	What would strengthen a second-round analysis
+No additional information is strictly necessary to support the analysis set out above. However, a second-round analysis could be made even stronger with: (a) participant-level notes identifying which sessions the respondents came from; (b) any open-ended participant explanations, if they were collected. Those details would help determine whether the persistent-conviction subgroup reflects a substantive psychological pattern or a session-specific effect. 
+10. Limitations
+This analysis should be reported with appropriate caution. The sample size was 20 participants, and it is too small to support broad population-level claims. The participants were mock jurors rather than actual jurors deliberating in a courtroom setting. The exercise also appears to include a cluster of participants who remained highly convinced throughout the study, which could reflect genuine resistance to correction but could also reflect session-specific dynamics. In addition, the deepfake video used in the study may be less sophisticated than the most convincing synthetic evidence that could arise in practice A further limitation is the forced-choice framing of the first question, which instructs participants that one of the two individuals was absolutely responsible. That is not how real jurors enter a courtroom. It forecloses reasonable doubt reasoning and may have affected confidence scores across all stages compared to a design that permitted genuine uncertainty.
+Those limitations do not negate the findings. If anything, they sharpen the normative concern: even in a small, controlled, and relatively simple study, a fabricated video generated a strong initial shift and continued to influence a meaningful minority of participants to the point of final conviction.
+11. Recommendations
+The findings of this study point to a real and urgent problem that the justice system is not currently equipped to handle. Across our 20 participants, a single deepfake video was enough to dramatically shift suspicion from one person to another, and even after participants were told the video might be fake and given four separate pieces of evidence pointing elsewhere, 20% still said they would convict the wrong person. That is a demonstration of how fabricated visual evidence can distort the outcome of a legal proceeding, and it demands a response.
+The three recommendations below are grounded directly in those findings. They are also grounded in real legal developments, with reforms that courts and legislatures in Ontario, the United States, and internationally are already actively considering. We have identified where the existing framework falls short and what specific changes are needed to close those gaps.
+Recommendation 1: Burden-Shifting (The Party Who Introduces the Video Should Have to Prove It Is Real)
+The Problem
+Right now, if a deepfake is introduced as evidence in a proceeding, the burden falls on the opposing party to challenge it. On the surface, that might seem fair, but in the context of deepfakes, this gets the logic completely backwards. The party introducing the video is the one who obtained it. They know where it came from, how it was processed, and who handled it. The party against whom it is used has none of that information. They have no access to the video’s provenance, no way of knowing how it was made, and potentially no technical tools to detect whether it has been fabricated. 
+The problem is made worse by timing. Under the current reactive framework, a challenge is raised after the evidence has already been introduced and, in many cases, after the jury has already seen it. By then, the damage may already be done.
+What Our Study Shows
+Our study demonstrates exactly why the moment of viewing matters so much. After participants watched the deepfake CCTV footage, mean confidence in Rivera’s guilt jumped from 2.70 to 4.15. This is a shift that was statistically highly significant (p = 0.0006). That anchoring effect was created in a single viewing, before any challenge was raised and before anyone had any reason to doubt the footage. Everything that followed (the warning, four layers of counter-evidence) was an attempt to undo an effect that had already taken hold. As our results show, that attempt only partially succeeded. Four participants were never moved at all, regardless of what came after. Under a reactive framework, those four participants would have reached deliberation having seen the video and having been anchored by it.
+What We Are Recommending
+We are recommending a presumption that once a credible basis for AI fabrication is raised, a contested video is presumptively inadmissible unless the party who introduced it can prove, on a balance of probabilities, that the footage is authentic. The threshold to trigger the presumption should be low: the challenging party does not need to prove fabrication, only demonstrate a credible basis for doubt. At that point, the burden flips entirely.
+Critically, the authenticity question should be decided by the trial judge, not the jury, before the video is ever shown. This matters because, as our study demonstrates, once jurors see the footage, the anchoring effect begins immediately. A judge deciding admissibility in advance, before the jury is exposed to the video, is the only point in the process where that effect can be prevented rather than merely corrected after the fact.
+This framework is modelled on proposed Rule 901(c), developed by retired US Federal Judge Paul Grimm and Professor Maura Grossman, which has been under active consideration by the US Advisory Committee on Evidence Rules since November 2024. Ontario does not yet have an equivalent rule. The proposed Ontario AI Rules Draft (February 2026) represents an important first step, but it operates in a discretionary framework that still leaves too much to case-by-case judicial assessment. Instead, a clear default is needed: unverified video should be presumptively inadmissible rather than presumptively admissible.
+In short, any video evidence whose authenticity is credibly challenged on the basis of potential AI fabrication is presumptively inadmissible. The introducing party must prove authenticity on a balance of probabilities. The trial judge must decide the question before the jury sees the video. Failure to establish authenticity means the video should be excluded. 
+Recommendation 2: Lawyer Liability (A Duty to Check Before You Introduce)
+The Problem
+The first recommendation deals with what happens when authenticity is challenged. However, it does not, on its own, create any incentive for lawyers to investigate before they introduce a video in the first place. A lawyer could introduce a deepfake, fail to verify it, have it excluded when challenged, and walk away with nothing more than an evidentiary loss. Given how easy and inexpensive it has become to create convincing fabricated footage, that is not a sufficient deterrent.
+The current Law Society of Ontario Rules of Professional Conduct already prohibit lawyers from knowingly introducing false evidence. However, the word “knowingly” is the wrong word for this problem. A lawyer who introduces a deepfake without checking does not “know” it is fake. Therefore, under the current standard, they would face no consequence at all. There is no positive duty to verify. Instead, there is only a prohibition on deliberate deception.
+What Our Study Shows
+The deepfake in our exercise was first introduced to participants as regular CCTV footage (before its authenticity was questioned). In a real proceeding, that introduction is made by a lawyer. If that lawyer had not verified the video’s authenticity, they would have placed fabricated evidence before a jury. The anchoring effect our data documents (the jump from 2.70 to 4.15 after a single viewing of the video) is created at that moment of introduction. A lawyer who makes that introduction should bear responsibility for what they put in front of the jury.
+What We Are Recommending
+We are recommending that the Law Society of Ontario amend the Rules of Professional Conduct to impose a positive duty of reasonable diligence: before tendering video evidence in any proceeding, a lawyer must take active steps to verify that the footage has not been generated or materially altered by artificial intelligence. If a lawyer introduces video evidence without meeting that standard, and the footage is later found to have been fabricated or AI-altered, that failure should constitute professional misconduct.
+The standard we are proposing is “reasonable diligence,” not strict liability. We are not saying a lawyer is automatically at fault if a sophisticated deepfake defeats even careful verification. We are saying they cannot simply do nothing. The duty is to check, document how they checked its authenticity, and disclose the results to opposing parties and the court.
+This recommendation is modelled on Louisiana’s HB 178, which came into force in August 2025 as the first binding legal framework in the world to tie AI evidence verification directly to lawyer’s professional obligations. Under that law, a lawyer who knew or should have known through reasonable diligence that evidence was fabricated, and who introduced it without disclosure, is subject to disciplinary action. We recommend that Ontario adopt the same approach. 
+In short, we recommend that the Law Society of Ontario should amend the Rules of Professional Conduct to require lawyers to take reasonable steps to verify the authenticity of video evidence before introducing it. Failure to do so, where the evidence is later found to be fabricated, should constitute professional misconduct. The standard is reasonable diligence (not perfection) but the duty to check must be explicit and enforceable.
+Recommendation 3: Court-Appointed Experts and State Funding (Making Sure These Reforms Actually Work for Everyone)
+The Problem
+The first and second recommendations together create a meaningful framework, but only if the parties involved actually have access to the tools needed to verify video authenticity. Right now, forensic deepfake detection requires specialist expertise and could cost anywhere from hundreds to thousands of dollars per assessment. That is a manageable cost for a well-funded litigant, a large corporation, or a Crown prosecutor’s office. However, it may be completely out of reach for an accused person on legal aid, a self-represented litigant, or a low-income defendant in a proceeding.
+If the ability to challenge or verify video evidence is determined by how much money you have, then the recommendations we proposed would protect wealthy parties while leaving the most vulnerable without a practical remedy. 
+What Our Study Shows
+Our study’s persistent-conviction subgroup makes this point directly. The four participants who voted to convict Rivera at the end despite the warning and all four evidence layers were the group that no lay correction mechanism could reach. The only intervention that could plausibly have changed their minds is authoritative expert testimony: a qualified forensic examiner explaining, under oath and with technical credibility, exactly why the specific video should not be believed. 
+However, in a real proceeding, whether that expert ever appears depends on whether a party can afford to hire one. For those who cannot, the expert never comes, and the 20% conviction rate our study documents could become a real outcome, with an innocent person convicted in part because they lacked the resources to effectively challenge fabricated evidence.
+The State of Detection Technology
+Before making this recommendation, we acknowledge what forensic experts can and cannot do at this stage. 
+Forensic analysis techniques, including metadata examination, frequency artifact detection, frame-by-frame analysis, and multimodal cross-referencing, have real and documented capability. DARPA’s decade-long investment in media forensics, concluded in September 2024, has produced government-grade detection tools now being transitioned to law enforcement and commercial use. Platforms specifically designed for judicial environments now produce court-ready forensic reports with confidence scores and documented methodology. This means forensic experts could successfully identify deepfakes using combined technical and investigative analysis.
+However, there are limitations. Detection tools are trained on known fabrication methods and can struggle against novel techniques or deepfakes that have been specifically modified to evade detection. As generative AI advances, detection technology tends to lag behind. Even the best forensic analysis produces probabilistic outputs based on confidence scores rather than certainties. An expert can say “this video is highly likely to have been AI-generated,” but they cannot always say so with absolute certainty. 
+That said, this is not a reason to abandon the recommendation. It is a reason to be honest about what experts can offer, and to build that honesty into the framework. Experts should be framed as forensic experts providing probabilistic assessments. Critically, where an expert genuinely cannot resolve the authenticity question (where the evidence is simply too ambiguous to determine either way) the first recommendation regarding the presumption of inadmissibility should apply automatically. If even a specialist cannot tell whether the video is real, it should not go to the jury.
+What We Are Recommending
+We are recommending that courts be empowered/required to appoint a neutral forensic expert from a government-certified roster when a credible authenticity challenge is raised. The expert’s role is not to advocate for either party but to give the court an independent technical assessment before the admissibility decision is made. Importantly, this appointment should be state-funded where the accused cannot afford private forensic expertise.
+We are also recommending that the federal and Ontario governments jointly develop a certification standard for forensic deepfake examiners, establishing minimum methodological requirements and maintaining a court-approved roster of qualified practitioners. A certification standard would give the judge, a jury, and all parties confidence that the expert appearing before them meets a consistent and transparent standard. 
+In short, courts should be empowered to appoint neutral forensic experts from a government-certified roster when video authenticity is genuinely in dispute. This should be state-funded where the accused cannot afford private expertise.
+Where forensic analysis cannot resolve the authenticity question on a balance of probabilities, the presumption of inadmissibility from our first recommendation applies and the video may be excluded. The federal and Ontario governments should jointly develop a certification standard for forensic deepfake examiners to ensure consistent and reliable expert evidence in these proceedings. 
+How the Three Recommendations Work Together
+These three recommendations are layers of a response to a problem that operates at multiple points simultaneously. The first recommendation targets the moment of introduction, ensuring that the most dangerous point in the entire sequence (the moment a jury first sees a deepfake) is guarded by a legal presumption rather than left to a reactive challenge after the damage is done. The second recommendation targets professional incentives. It ensures that the lawyer introducing evidence has a personal stake in verifying what they are about to show a jury. The third recommendation targets structural inequality. It ensures that the verification tools needed to make the first two recommendations function are actually accessible to everyone, not just those who can afford them.
+The thread connecting all three is our study’s 20% final conviction rate. Those four participants represent a category of a decision-maker who could not be reached by warnings, who potentially needed authoritative expert correction, and who in a real proceeding would only receive that correction if a party had resources to do so. The first recommendation ensures the video does not reach the jury without a prior authenticity determination. The second recommendation ensures the lawyer introducing it has already done their due diligence. The third recommendation ensures the forensic expertise to make all of this meaningful is available to everyone who needs it. Together, they constitute a response proportionate to the harm our study has documented. 
+12. Conclusion 
+The study’s results reveal a clear pattern of deepfake persistence. Before viewing the video, participants showed only moderate confidence in Daniel Mercer’s guilt (M = 2.70). After viewing the CCTV footage implicating Alex Rivera, confidence in Rivera’s guilt rose sharply (M = 4.15), demonstrating the strong persuasive force of the fabricated visual evidence. Although confidence decreased after participants were warned that the footage might be a deepfake (M = 3.00), the warning did not fully neutralize the video’s effect. Confidence declined only gradually as additional evidence implicating Mercer was introduced, reaching 2.75 after Layer 1, 2.50 after Layer 2, 2.20 after Layer 3, and 1.75 after Layer 4. Notably, 4 of the 20 participants (20.0%) remained willing to convict Rivera at the end of the study, despite the authenticity challenge and all four layers of contradictory evidence. The findings therefore suggest that procedural warnings alone are insufficient and that substantial, cumulative counter-evidence is required to meaningfully reduce continued reliance on deepfake evidence.
+
+Appendix
+Detailed calculation trail for descriptive statistics and paired t-tests
+1) Background
+This appendix reports the full numerical audit trail used to analyze the participant survey responses. All paired analyses use n = 20 complete participant records. A clean study identifier (S01–S20) is used below so that every number can be traced row by row.
+For the paired t-tests, differences are defined as d = y − x, where x is the earlier stage and y is the later stage. The test statistic is t = mean(d) / (s_d / sqrt(n)).
+2) Raw response matrix (just confidence rating and no yes/no answers)
+Study ID
+Pre
+Post Video
+Post Warning
+Layer 1
+Layer 2
+Layer 3
+Layer 4
+S01
+5
+5
+5
+5
+5
+5
+5
+S02
+4
+5
+5
+5
+5
+5
+4
+S03
+4
+5
+5
+5
+5
+5
+4
+S04
+4
+5
+5
+4
+4
+4
+4
+S05
+3
+3
+2
+2
+2
+2
+1
+S06
+5
+4
+2
+2
+2
+1
+1
+S07
+1
+3
+3
+3
+3
+3
+2
+S08
+1
+4
+2
+2
+2
+2
+1
+S09
+1
+3
+2
+2
+2
+2
+1
+S10
+3
+4
+3
+3
+3
+2
+2
+S11
+1
+1
+1
+1
+1
+1
+1
+S12
+3
+4
+3
+2
+1
+1
+1
+S13
+3
+5
+3
+3
+2
+1
+1
+S14
+1
+5
+4
+3
+2
+1
+1
+S15
+4
+4
+3
+1
+1
+1
+1
+S16
+1
+5
+4
+4
+3
+2
+1
+S17
+1
+5
+1
+1
+1
+1
+1
+S18
+4
+3
+2
+2
+2
+1
+1
+S19
+3
+5
+4
+4
+3
+3
+1
+S20
+2
+5
+1
+1
+1
+1
+1
+
+Stage
+n
+Mean
+Standard Deviation
+Variance
+Median
+Min
+Max
+
+
+
+
+
+
+
+
+Pre
+20
+2.700000
+1.454575
+2.115789
+3.000000
+1.000000
+5.000000
+Post Video
+20
+4.150000
+1.089423
+1.186842
+4.500000
+1.000000
+5.000000
+Post Warning
+20
+3.000000
+1.376494
+1.894737
+3.000000
+1.000000
+5.000000
+Layer 1
+20
+2.750000
+1.371707
+1.881579
+2.500000
+1.000000
+5.000000
+L2
+20
+2.500000
+1.357242
+1.842105
+2.000000
+1.000000
+5.000000
+L3
+20
+2.200000
+1.472556
+2.168421
+2.000000
+1.000000
+5.000000
+L4
+20
+1.750000
+1.332785
+1.776316
+1.000000
+1.000000
+5.000000
+
+3) Descriptive statistics 
+
+Outcome
+Yes
+No
+Total
+Yes %
+No %
+Reported change after warning (Q3)
+14
+6
+20
+70.00%
+30.00%
+Reported change after Layer 1 (Q5)
+5
+15
+20
+25.00%
+75.00%
+Reported change after Layer 2 (Q7)
+7
+13
+20
+35.00%
+65.00%
+Reported change after Layer 3 (Q9)
+8
+12
+20
+40.00%
+60.00%
+Reported change after Layer 4 (Q11)
+11
+9
+20
+55.00%
+45.00%
+Final willingness to convict Rivera (Q13)
+4
+16
+20
+20.00%
+80.00%
+
+4) Additional observations (to supplement our Mean analysis) 
+Baseline suspicion of Mercer (Q1)
+Score
+Count
+1
+7
+2
+1
+3
+5
+4
+5
+5
+2
+Post-video confidence in Rivera (Q2)
+Score
+Count
+1
+1
+2
+0
+3
+4
+4
+5
+5
+10
+Post-warning confidence in Rivera (Q4)
+Score
+Count
+1
+3
+2
+5
+3
+5
+4
+3
+5
+4
+After Layer 1 (Q6)
+Score
+Count
+1
+4
+2
+6
+3
+4
+4
+3
+5
+3
+After Layer 2 (Q8)
+Score
+Count
+1
+5
+2
+7
+3
+4
+4
+1
+5
+3
+After Layer 3 (Q10)
+Score
+Count
+1
+9
+2
+5
+3
+2
+4
+1
+5
+3
+After Layer 4 (Q12)
+Score
+Count
+1
+14
+2
+2
+3
+0
+4
+3
+5
+1
+
+5) Paired T-Test Results (Statistical Significance)
+What is a paired t-test?
+Because the same 20 participants answered confidence questions at multiple points throughout the study, paired t-tests were used to check whether the changes observed between stages were statistically significant — meaning they are unlikely to be the result of random chance. Each participant’s score at one stage was compared to their own score at the next stage.
+ 
+The key output is the p-value. A p-value below 0.05 is the standard threshold for statistical significance, meaning there is less than a 5% chance the observed change happened by chance alone. A p-value above 0.05 means the change was not large enough to rule out random variation.
+ 
+ 
+Results Summary
+Comparison
+What it measures
+p-value
+Significant?
+Baseline (Q1) → Post-video (Q2)
+Did the deepfake shift confidence toward Rivera?
+0.0006
+Yes ✔
+Post-video (Q2) → Post-warning (Q4)
+Did the authenticity warning reduce confidence in Rivera?
+0.0003
+Yes ✔
+Post-warning (Q4) → After Layer 1 (Q6)
+Did learning Mercer was fired change confidence?
+0.0563
+No ✖
+After Layer 1 (Q6) → After Layer 2 (Q8)
+Did learning Mercer had financial difficulties change confidence?
+0.0210
+Yes ✔
+After Layer 2 (Q8) → After Layer 3 (Q10)
+Did Mercer’s social media post change confidence?
+0.0102
+Yes ✔
+After Layer 3 (Q10) → After Layer 4 (Q12)
+Did Mercer’s ATM search history change confidence?
+0.0035
+Yes ✔
+Post-warning (Q4) → After Layer 4 (Q12)
+What was the overall effect of all four evidence layers?
+< 0.0001
+Yes ✔
+ 
+ 
+Key takeaway
+The deepfake video produced a highly significant increase in confidence in Rivera’s guilt (p = 0.0006), and the authenticity warning produced a highly significant decrease (p = 0.0003). However, the warning alone was not enough to fully correct the effect (confidence remained at the midpoint of the scale). Of the four additional evidence layers, three produced statistically significant declines. Layer 1 (employment termination) did not reach significance on its own (p = 0.0563), suggesting it was too weak in isolation. The overall reduction across all four layers combined was highly significant (p < 0.0001), confirming that the cumulative counter-evidence had a real and substantial effect — even if 20% of participants remained willing to convict Rivera at the end.
+

@@ -1,0 +1,127 @@
+THE DEEPFAKE DILEMMA
+Mock Trial Study
+Participant Package
+
+
+Welcome
+Thank you for participating in this study. Today you will be asked to act as a mock juror in a fictional criminal case. You will be given information about a suspected theft, including witness accounts, location data, and video footage. After reviewing each piece of evidence, you will be asked to complete a short survey indicating your level of confidence in the case.
+
+Please review each piece of evidence carefully and answer honestly — there are no right or wrong answers. Your genuine reactions are what matter most.
+
+Before we begin, please read and sign the consent form if you have not already done so. Do you have any questions before we start?
+
+BACKGROUND INFORMATION
+Case Background
+The ATM Theft — September 14, 2025
+On the evening of September 14, 2025, at approximately 7:45 p.m., an ATM located outside a convenience store in downtown Toronto was involved in a suspected theft. When the store manager arrived the following morning, the ATM had been left partially open and appeared to have been tampered with. A preliminary inspection by the ATM servicing company later determined that approximately $2,000 in cash was missing from the machine.
+Police began investigating the incident and reviewed surveillance footage from nearby cameras. The footage showed an individual standing at the ATM that evening and manipulating and battering the machine before removing cash and leaving the area on foot.
+During the investigation, officers identified Defendant A, Daniel Mercer, as a person of interest. Mercer lives approximately two blocks from the convenience store where the ATM is located and had previously worked at a business located one block from the store.
+Police also interviewed an individual who had been walking past the convenience store around the time of the incident. The witness reported seeing a person standing at the ATM around 7:45 p.m. wearing a dark hoodie and light pants. Although the witness could not clearly see the person’s face, they described the individual as having a similar height and build to Mercer.
+Investigators also obtained cell phone location data indicating that Mercer’s phone was in the general vicinity of the convenience store between 6:30 p.m. and 8:00 p.m. on the evening the theft occurred. Mercer told police that he had been walking in the area that evening.
+At this stage of the investigation, police considered Mercer a person of interest in the ATM theft.
+
+SURVEY — QUESTION 1
+
+“Take for granted the fact that you know that either Daniel Mercer or Alex Rivera is absolutely responsible for the theft. After reviewing the initial evidence, how confident are you that Daniel Mercer is guilty of the theft?”
+Scale: 1 (Not confident at all) — 5 (100% confident)
+
+CCTV VIDEO EVIDENCE
+New Evidence: CCTV Footage
+Despite the evidence connecting Mercer to the crime, during the investigation, police also contacted LUMA Inc. to review the CCTV footage from the camera positioned above the ATM on the night of the incident. The results implicated a nearby gas station employee, who has now become the second suspect. His name is Alex Rivera. You will now view this footage. Please watch it carefully.
+
+Identification Photos
+Daniel Mercer
+Alex Rivera
+
+
+
+
+
+SURVEY — QUESTION 2
+
+“After reviewing the CCTV video evidence, how confident are you that Alex Rivera is guilty of the theft?”
+Scale: 1 (Not confident at all) — 5 (100% confident)
+
+
+
+
+
+
+AUTHENTICITY CHALLENGE
+Notice Regarding the CCTV Footage
+Investigators have begun questioning the authenticity of the CCTV footage you just viewed. Authorities have raised concerns that the video may have been digitally altered or artificially generated using artificial intelligence technology (commonly referred to as a ‘deepfake’). Because of these concerns, forensic experts are currently reviewing the footage to determine whether it is authentic or has been manipulated.
+
+SURVEY — QUESTIONS 3 & 4
+
+“After learning that the authenticity of the CCTV video evidence is being questioned, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of the theft?”
+Scale: 1 (Not confident at all) — 5 (100% confident)
+
+ADDITIONAL EVIDENCE
+Further Information
+While forensic experts continue examining the authenticity of the CCTV footage, investigators have uncovered additional information relating to Daniel Mercer. You will receive this information one piece at a time. After each new piece of evidence, please update your assessment.
+
+Evidence 1 — Employment Termination
+Investigators confirmed that Mercer had been terminated from his job at a business located one block from the convenience store approximately two weeks before the incident. According to management, Mercer appeared frustrated about losing the job.
+
+SURVEY — QUESTIONS 5 & 6
+
+“After learning that Daniel Mercer was fired from his job one block away from the theft, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of the theft?”
+Scale: 1 (Not confident at all) — 5 (100% confident)
+
+Evidence 2 — Financial Difficulties
+Investigators learned that Mercer had been experiencing financial difficulties in the weeks leading up to the theft, including overdue rent payments.
+
+SURVEY — QUESTIONS 7 & 8
+
+“After learning that Daniel Mercer was experiencing financial difficulties, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of the theft?”
+Scale: 1 (Not confident at all) — 5 (100% confident)
+
+Evidence 3 — Social Media Post
+Police reviewed Mercer’s public social media activity. Two days before the incident, Mercer posted the following message on X (formerly Twitter):
+
+“I’mmm tired of being down and out,, somethings gotta change 😒💸💸.”
+
+SURVEY — QUESTIONS 9 & 10
+
+“After learning that Daniel Mercer posted on X about his financial difficulties and his intent to change his situation, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of theft?”
+Scale: 1 (Not confident at all) — 5 (100% confident)
+
+Evidence 4 — Internet Search History
+Finally, investigators obtained records showing that Mercer had conducted two internet searches related to ATM machines in the week leading up to the incident, including:
+	•	“How ATM machines work”
+	•	“ATM cash box access”
+
+Investigators believe this information may be relevant to determining whether Mercer had knowledge of how ATM machines operate prior to the theft.
+
+SURVEY — QUESTIONS 11 & 12
+
+“After learning about Daniel Mercer’s search history, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of theft?”
+Scale: 1 (Not confident at all) — 5 (100% confident)
+
+FINAL VERDICT
+Your Final Decision
+You have now reviewed all of the evidence in this case. Please consider everything you have seen and read before answering the final question below.
+
+SURVEY — QUESTION 13
+
+“On the basis of all the evidence so far, would you be willing to convict Alex Rivera of the theft, despite the uncertainty regarding the CCTV footage’s authenticity and the evidence implicating Daniel Mercer?”
+Response: Yes / No
+
+
+Thank you for your participation.
+Please remain seated — a brief debrief will follow shortly.

@@ -1,0 +1,301 @@
+THE DEEPFAKE DILEMMA
+Mock Trial Study: Master Instruction Sheet
+IMPORTANT — TWO SEPARATE AUDIENCES
+This document contains instructions for BOTH the research team AND participants. Sections labelled ‘RESEARCHER ONLY’ should never be shown to participants. Participant-facing text is clearly marked.
+
+PART A — RESEARCHER SETUP & PRE-SESSION CHECKLIST    [RESEARCHER ONLY]
+A1. Materials Checklist
+Prepare and verify all of the following before any participant arrives:
+
+Physical / Digital Materials
+	•	Printed or digital copies of the Background Information Package for each participant (see Part B for exact text)
+	•	Headshot photos of both defendants — Defendant A (Daniel Mercer) and Defendant B (Alex Rivera) — printed or displayed on screen during Step 1
+	•	Access to the deepfake CCTV video file (CCTV-footage.mp4) — confirmed playable on the session device before each session
+	•	Access to the Google Form participant survey (ensure it is PUBLISHED and accepting responses before the session begins)
+	•	Printed or digital copies of the additional evidence packages (Evidence Layers 1–4; see Part C)
+	•	Informed consent form — one per participant, signed before any materials are shared
+	•	Participant ID log — assign each participant a unique code (P01, P02 … P20)
+	•	Session log sheet — record start time, evidence layer timestamps, and end time
+
+Technology Check 
+	•	Video playback device is charged and ready; CCTV-footage.mp4 loads and plays without lag
+	•	Google Form survey link is functional and not in ‘preview mode’ (responses must be enabled)
+	•	Headshot images are displayed at legible size — if printed, use at minimum a half-page per photo; if on screen, ensure clear visibility from participant seating
+	•	No audio distractions in the room; video audio is audible from the participant’s seat
+	•	If remote: video conferencing link tested; screenshare of video and headshots confirmed working
+
+A2. Participant Recruitment & Ethics Reminders
+	•	Recruit at least 20 participants from the general population — do NOT recruit individuals with legal or AI expertise.
+	•	Participants MUST NOT be told in advance that the study involves deepfakes. Do not disclose the study focus until the post-session debrief.
+	•	Obtain signed informed consent before beginning. The consent form should note the study involves legal decision-making scenarios but need not specify deepfakes.
+	•	Remind participants that there are no right or wrong answers — you want their genuine, honest reactions.
+	•	Advise participants the session will take approximately 30–45 minutes.
+
+PART B — SESSION PROTOCOL: STEP-BY-STEP INSTRUCTIONS
+OVERVIEW OF SESSION FLOW
+The session is structured in five sequential phases. Do not skip ahead or reveal later evidence early. Each phase must be completed fully before moving to the next.
+
+Phase 1
+Welcome & consent — background information + headshots provided
+
+Phase 2
+Deepfake video shown — initial verdicts recorded (Survey Questions 1 & 2)
+
+Phase 3
+Video authenticity challenge disclosed — confidence re-assessed (Survey Questions 3 & 4)
+
+Phase 4
+Four layers of new evidence introduced — confidence tracked after each (Survey Questions 5–12)
+
+Phase 5
+Final verdict recorded — debrief administered (Survey Question 13)
+
+
+STEP 1
+WELCOME, CONSENT & BACKGROUND INFORMATION 
+
+RESEARCHER: Read the following welcome script aloud to the participant, or provide it in writing.
+
+——  SCRIPT FOR PARTICIPANTS (Read Aloud or Distribute)  ——
+
+Thank you for participating in this study. Today you will be asked to act as a mock juror in a fictional criminal case. You will be given information about a suspected theft, including witness accounts, location data, and video footage. After reviewing each piece of evidence, you will be asked to complete a short survey.
+
+Please review each piece of evidence carefully and answer honestly — there are no right or wrong answers. Your genuine reactions are what matter most.
+
+Before we begin, please read and sign the consent form if you have not already done so. Do you have any questions before we start?
+
+RESEARCHER: Distribute or display the Background Information package below. Give participants sufficient time to read it in full — approximately 5 minutes. Do not rush this stage.
+
+BACKGROUND INFORMATION PACKAGE (Distribute to Participant)
+
+
+Case Background: The ATM Theft — September 14, 2025
+On the evening of September 14, 2025, at approximately 7:45 p.m., an ATM located outside a convenience store in downtown Toronto was involved in a suspected theft. When the store manager arrived the following morning, the ATM had been left partially open and appeared to have been tampered with. A preliminary inspection by the ATM servicing company later determined that approximately $2,000 in cash was missing from the machine.
+
+Police began investigating the incident and reviewed surveillance footage from nearby cameras. The footage showed an individual standing at the ATM that evening and manipulating and battering the machine before removing cash and leaving the area on foot. 
+
+During the investigation, officers identified Defendant A, Daniel Mercer, as a person of interest. Mercer lives approximately two blocks from the convenience store where the ATM is located and had previously worked at a business located one block from the store.
+
+Police also interviewed an individual who had been walking past the convenience store around the time of the incident. The witness reported seeing a person standing at the ATM around 7:45 p.m. wearing a dark hoodie and light pants. Although the witness could not clearly see the person’s face, they described the individual as having a similar height and build to Mercer.
+
+Investigators also obtained cell phone location data indicating that Mercer’s phone was in the general vicinity of the convenience store between 6:30 p.m. and 8:00 p.m. on the evening the theft occurred. Mercer told police that he had been walking in the area that evening.
+
+At this stage of the investigation, police considered Mercer a person of interest in the ATM theft.
+
+SURVEY — Question 1 (After Background Information + Headshots, But BEFORE Video)
+Direct participants to open the survey and answer Question 1:
+
+“After reviewing the initial evidence, how confident are you that Daniel Mercer is guilty of the theft?”
+Scale: 1 (Not confident at all) to 5 (100% confident)
+
+RESEARCHER NOTE: Wait for all participants to submit their answer before proceeding.
+
+STEP 2
+PRESENT THE CCTV DEEPFAKE VIDEO
+
+RESEARCHER: Read or display the following to participants before playing the video.
+
+——  SCRIPT FOR PARTICIPANTS  ——
+
+Despite the evidence connecting Mercer to the crime, during the investigation, police also contacted LUMA Inc. to review the CCTV footage from the camera positioned above the ATM on the night of the incident. The results implicated a nearby gas station employee, who has now become the second suspect. His name is Alex Rivera (Defendant B). You will now view this footage. Please watch it carefully.
+
+RESEARCHER ACTION: Play CCTV-style footage now.
+The video appears to show an individual who closely resembles Defendant B, Alex Rivera, standing at the ATM around the time of the theft, manipulating and battering the machine before opening it, removing cash, and leaving the area.
+
+Ensure all participants have watched the full video before proceeding to the survey.
+
+DEFENDANT IDENTIFICATION PHOTOS
+Participants should review the following identification photos of both defendants before proceeding.
+
+Daniel Mercer
+Alex Rivera
+
+
+
+
+SURVEY — Question 2 (Immediately After Video)
+Direct participants to answer Question 2:
+
+“After reviewing the CCTV video evidence, how confident are you that Alex Rivera is guilty of the theft?”
+Scale: 1 (Not confident at all) to 5 (100% confident)
+
+RESEARCHER NOTE: Record whether participant confidence has shifted toward Alex Rivera after viewing the video.
+
+STEP 3
+DISCLOSE THE AUTHENTICITY CHALLENGE (PROCEDURAL WARNING)
+
+RESEARCHER: Read or distribute the following notice to all participants.
+
+——  NOTICE FOR PARTICIPANTS  ——
+
+Investigators have begun questioning the authenticity of the CCTV footage you just viewed. Authorities have raised concerns that the video may have been digitally altered or artificially generated using artificial intelligence technology (commonly referred to as a ‘deepfake’). Because of these concerns, forensic experts are currently reviewing the footage to determine whether it is authentic or has been manipulated.
+
+SURVEY — Questions 3 & 4 (After Authenticity Challenge)
+Direct participants to answer both questions:
+
+“After learning that the authenticity of the CCTV video evidence is being questioned, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of the theft?”
+Scale: 1 (Not confident at all) to 5 (100% confident)
+
+RESEARCHER NOTE: This measures whether a simple procedural warning is sufficient to shift confidence. This is a key data point.
+
+STEP 4
+INTRODUCE ADDITIONAL EVIDENCE — LAYER BY LAYER
+
+CRITICAL INSTRUCTION FOR RESEARCHERS
+Introduce each piece of evidence ONE AT A TIME, in the exact order listed below. After each new piece of evidence is presented, pause and direct participants to answer the corresponding survey questions before revealing the next piece. Do not show all evidence at once.
+
+RESEARCHER: Read or distribute the following framing statement before the first piece of additional evidence.
+
+——  FRAMING STATEMENT FOR PARTICIPANTS  ——
+
+While forensic experts continue examining the authenticity of the CCTV footage, investigators have uncovered additional information relating to Defendant A, Daniel Mercer. You will now receive this information one piece at a time. After each new piece of evidence, please update your assessment.
+
+Evidence Layer 1 — Employment Termination
+——  EVIDENCE TO DISTRIBUTE TO PARTICIPANTS  ——
+
+Investigators confirmed that Mercer had been terminated from his job at a business located one block from the convenience store approximately two weeks before the incident. According to management, Mercer appeared frustrated about losing the job.
+
+SURVEY — Questions 5 & 6 (After Evidence Layer 1)
+
+“After learning that Daniel Mercer was fired from his job one block away from the theft, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of the theft?”
+Scale: 1 (Not confident at all) to 5 (100% confident)
+
+Evidence Layer 2 — Financial Difficulties
+——  EVIDENCE TO DISTRIBUTE TO PARTICIPANTS  ——
+
+Investigators learned that Mercer had been experiencing financial difficulties in the weeks leading up to the theft, including overdue rent payments.
+
+SURVEY — Questions 7 & 8 (After Evidence Layer 2)
+
+“After learning that Daniel Mercer was experiencing financial difficulties, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of the theft?”
+Scale: 1 (Not confident at all) to 5 (100% confident)
+
+Evidence Layer 3 — Social Media Post
+——  EVIDENCE TO DISTRIBUTE TO PARTICIPANTS  ——
+
+Police reviewed Mercer’s public social media activity. Two days before the incident, Mercer posted the following message on X (formerly Twitter):
+
+“I’mmm tired of being down and out,, somethings gotta change 😒💸💸.”
+
+SURVEY — Questions 9 & 10 (After Evidence Layer 3)
+
+“After learning that Daniel Mercer posted on X about his financial difficulties and his intent to change his situation, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of theft?”
+Scale: 1 (Not confident at all) to 5 (100% confident)
+
+Evidence Layer 4 — Internet Search History
+——  EVIDENCE TO DISTRIBUTE TO PARTICIPANTS  ——
+
+Finally, investigators obtained records showing that Mercer had conducted two internet searches related to ATM machines in the week leading up to the incident, including:
+	•	“How ATM machines work”
+	•	“ATM cash box access”
+
+Investigators believe this information may be relevant to determining whether Mercer had knowledge of how ATM machines operate prior to the theft.
+
+SURVEY — Questions 11 & 12 (After Evidence Layer 4)
+
+“After learning about Daniel Mercer’s search history, has your level of confidence regarding Alex Rivera’s guilt changed?”
+Response: Yes / No
+
+“How confident are you that Alex Rivera is guilty of theft?”
+Scale: 1 (Not confident at all) to 5 (100% confident)
+
+STEP 5
+FINAL VERDICT & SESSION CLOSE
+
+RESEARCHER: After Evidence Layer 4 and Survey Questions 11 & 12 are complete, direct participants to the final survey question.
+
+SURVEY — Question 13 (Final Verdict)
+
+“On the basis of all the evidence so far, would you be willing to convict Alex Rivera of the theft, despite the uncertainty regarding the CCTV footage’s authenticity and the evidence implicating Daniel Mercer?”
+Response: Yes / No
+
+Once submitted, instruct participants to stay seated — the debrief will follow immediately.
+
+PART C — POST-SESSION DEBRIEF    [RESEARCHER ONLY — READ ALOUD]
+——  DEBRIEF SCRIPT  ——
+
+Thank you for participating. Now that you have completed the session, we would like to tell you more about the purpose of this study.
+
+This study is examining how AI-generated fake video evidence — known as ‘deepfakes’ — can influence decision-making, and how much additional evidence is needed to change a decision once a deepfake has been viewed.
+
+The CCTV footage you viewed was not real. It was a fabricated, AI-generated video. There is no actual criminal case. Daniel Mercer and Alex Rivera are fictional characters.
+
+Your responses will be kept completely confidential and will only be used for research purposes. If you have any questions or concerns, please speak with the research team now. If at any point you feel uncomfortable with any aspect of the study, you may withdraw your data — simply let us know.
+
+Thank you again for your time and your candid responses. Your participation is genuinely valuable to this research.
+
+PART D — DATA RECORDING & ANALYSIS NOTES    [RESEARCHER ONLY]
+D1. What to Record per Participant
+Data Point
+Notes
+Q1 — Confidence in Mercer (pre-video)
+Baseline confidence level before deepfake exposure (1–5)
+Q2 — Confidence in Rivera (post-video)
+Initial deepfake influence — shift toward Rivera expected
+Q3 — Changed after warning?
+Yes/No — tests whether procedural warning alone is sufficient
+Q4 — Confidence in Rivera (post-warning)
+Measures residual reliance on deepfake after challenge
+Q5 & Q6 — After Layer 1
+Yes/No change + updated confidence score
+Q7 & Q8 — After Layer 2
+Yes/No change + updated confidence score
+Q9 & Q10 — After Layer 3
+Yes/No change + updated confidence score
+Q11 & Q12 — After Layer 4
+Yes/No change + updated confidence score
+Q13 — Final conviction verdict
+Would participant convict Rivera? Yes/No
+
+D2. Key Research Questions to Answer
+	•	Evidentiary Threshold: At which evidence layer (1, 2, 3, or 4) do participants show the most significant shift in confidence away from Rivera? Calculate mean confidence scores at each stage.
+	•	Procedural Safeguard Efficacy: What percentage of participants changed their verdict after the authenticity warning alone (Q3) vs. only after additional evidence was introduced?
+	•	Deepfake Persistence: How many participants still had higher confidence in Rivera’s guilt than Mercer’s at the end, despite four layers of counter-evidence?
+	•	Final Conviction Rate: What proportion of participants (Q13) were still willing to convict Rivera at the end?
+
+D3. Limitations to Acknowledge in Reporting
+	•	Sample size of ~20 is not statistically representative of the broader population — findings should be described as indicative rather than conclusive.
+	•	Participant responses may be influenced by individual cognitive biases that cannot be controlled for in this study.
+	•	The deepfake used may be less sophisticated than what a well-resourced actor could produce in a real court scenario.
+	•	The controlled environment differs from the dynamics of an actual jury deliberation.
+
+PART E — QUICK REFERENCE SESSION TIMELINE    [RESEARCHER ONLY]
+Time
+Phase
+Action
+0:00
+Setup
+Seat participant; obtain consent; distribute Background Info + headshots
+~5 min
+Phase 1
+Participant reads background info; views headshots; completes Survey Q1
+~10 min
+Phase 2
+Deepfake video played; completes Survey Q2
+~15 min
+Phase 3
+Authenticity challenge disclosed; completes Survey Q3–Q4
+~20 min
+Phase 4
+Evidence Layers 1–4 presented one at a time; Survey Q5–Q12
+~35 min
+Phase 5
+Final verdict Survey Q13; debrief administered
+~45 min
+End
+Participant dismissed; researcher logs final notes
+
+
+END OF PROTOCOL DOCUMENT
