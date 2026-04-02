@@ -47,12 +47,13 @@ const citations = [
 
 const materials = [
   {
-    title: "Background Story",
-    path: "docs/background-story.docx",
+    title: "Participant Survey",
+    path: "https://docs.google.com/forms/d/e/1FAIpQLSetF7ECTcu0-T32aniQAbtOSWA6Z8Fz4z1mGDZD1SyK1RDeGg/viewform?usp=dialog",
     summary:
-      "Project backstory and implicating evidence summary outlining the ATM theft, the suspects, the deepfake notice, and the additional evidence against Mercer.",
+      "Google Form used to collect participant responses at each stage of the study, including confidence ratings, change reports, and the final verdict question.",
     excerpt:
-      "The ATM theft scenario, suspect background, deepfake warning, and additional evidence were all framed as part of a fictional investigation before participants were asked to revise their judgment.",
+      "This survey recorded how participants responded after the background story, the video, the warning, each evidence layer, and the final conviction decision.",
+    external: true,
   },
   {
     title: "Participant Package",
@@ -388,7 +389,9 @@ function renderMaterials() {
                 <summary>${item.title}</summary>
                 <p>${item.summary}</p>
                 <p><strong>Excerpt:</strong> ${item.excerpt}</p>
-                <a class="source-link" href="${item.path}" download>Download Word file</a>
+                <a class="source-link" href="${item.path}" ${item.external ? 'target="_blank" rel="noreferrer"' : "download"}>
+                  ${item.external ? "Open survey" : "Download Word file"}
+                </a>
               </details>
             `,
           )
