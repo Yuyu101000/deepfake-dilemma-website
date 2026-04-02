@@ -75,7 +75,7 @@ const materials = [
     title: "Results Analysis Memo",
     path: "docs/results-analysis-memo.pdf",
     summary:
-      "Full analysis memo with descriptive results, paired t-tests, findings by research question, limitations, and recommendations.",
+      "Full analysis memo with descriptive results, statistical findings by research question, limitations, and recommendations.",
     excerpt:
       "The memo concludes that procedural warnings alone were insufficient and that cumulative counter-evidence was needed to reduce continued reliance on the deepfake.",
   },
