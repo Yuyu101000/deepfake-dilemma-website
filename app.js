@@ -11,11 +11,12 @@ const researchQuestions = [
   {
     title: "Research Question 1",
     text:
-      "How much additional trustworthy evidence is needed to meaningfully reduce or eliminate continued reliance on deepfake evidence once authenticity is challenged?",
+      "The Evidentiary Threshold: How much additional trustworthy, probative evidence is required to meaningfully reduce or eliminate reliance on deepfake evidence once its authenticity is challenged?",
   },
   {
     title: "Research Question 2",
-    text: "Is a standard warning enough to correct juror perception, or are stronger safeguards required?",
+    text:
+      "The Efficacy of Procedural Safeguards: Is a procedural warning instructing people that the video's authenticity is being questioned sufficient to correct their perception, or are additional safeguards required?",
   },
 ];
 
@@ -230,7 +231,7 @@ const recommendations = [
   {
     title: "Stronger lawyer verification duties",
     text:
-      "Lawyers introducing AI-sensitive digital evidence should be expected to verify authenticity and disclose the steps taken before relying on it.",
+      "Lawyers introducing digital evidence should be expected to verify authenticity and disclose the steps taken before relying on it.",
   },
   {
     title: "Neutral, state-supported forensic experts",
