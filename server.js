@@ -55,11 +55,12 @@ function sendFile(response, filePath) {
 
     const ext = path.extname(filePath).toLowerCase();
     const contentType = MIME_TYPES[ext] || "application/octet-stream";
+    const shouldDisableCache = [".html", ".js", ".css"].includes(ext);
 
     response.writeHead(200, {
       "Content-Type": contentType,
       "Content-Length": stats.size,
-      "Cache-Control": ext === ".html" ? "no-cache" : "public, max-age=3600",
+      "Cache-Control": shouldDisableCache ? "no-cache, no-store, must-revalidate" : "public, max-age=3600",
     });
 
     fs.createReadStream(filePath).pipe(response);
