@@ -57,7 +57,7 @@ const materials = [
   },
   {
     title: "Participant Package",
-    path: "docs/participant-package.docx",
+    path: "docs/participant-package.pdf",
     summary:
       "Participant-facing study packet used to guide mock jurors through the case background, video, warning, evidence layers, and final verdict.",
     excerpt:
@@ -65,7 +65,7 @@ const materials = [
   },
   {
     title: "Master Instruction Sheet",
-    path: "docs/master-instruction-sheet.docx",
+    path: "docs/final-master-instruction-sheet.pdf",
     summary:
       "Researcher protocol covering setup, delivery order, ethics reminders, timing, and debrief instructions.",
     excerpt:
@@ -73,7 +73,7 @@ const materials = [
   },
   {
     title: "Results Analysis Memo",
-    path: "docs/results-analysis-memo.docx",
+    path: "docs/results-analysis-memo.pdf",
     summary:
       "Full analysis memo with descriptive results, paired t-tests, findings by research question, limitations, and recommendations.",
     excerpt:
@@ -390,7 +390,7 @@ function renderMaterials() {
                 <p>${item.summary}</p>
                 <p><strong>Excerpt:</strong> ${item.excerpt}</p>
                 <a class="source-link" href="${item.path}" ${item.external ? 'target="_blank" rel="noreferrer"' : "download"}>
-                  ${item.external ? "Open survey" : "Download Word file"}
+                  ${item.external ? "Open survey" : "Open PDF"}
                 </a>
               </details>
             `,
