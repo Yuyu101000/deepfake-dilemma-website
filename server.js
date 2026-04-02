@@ -46,6 +46,38 @@ function sendJson(response, statusCode, payload) {
   response.end(body);
 }
 
+function getAssetVersion(fileName) {
+  const filePath = path.join(ROOT, fileName);
+  const stats = fs.statSync(filePath);
+  return String(stats.mtimeMs).replace(".", "");
+}
+
+function sendIndexHtml(response) {
+  const indexPath = path.join(ROOT, "index.html");
+
+  fs.readFile(indexPath, "utf8", (error, html) => {
+    if (error) {
+      sendNotFound(response);
+      return;
+    }
+
+    const cssVersion = getAssetVersion("styles.css");
+    const jsVersion = getAssetVersion("app.js");
+
+    const renderedHtml = html
+      .replace('href="styles.css"', `href="styles.css?v=${cssVersion}"`)
+      .replace('src="app.js"', `src="app.js?v=${jsVersion}"`);
+
+    response.writeHead(200, {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": Buffer.byteLength(renderedHtml),
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+    });
+
+    response.end(renderedHtml);
+  });
+}
+
 function sendFile(response, filePath) {
   fs.stat(filePath, (statError, stats) => {
     if (statError || !stats.isFile()) {
@@ -107,6 +139,11 @@ const server = http.createServer((request, response) => {
     return;
   }
 
+  if (pathname === "/") {
+    sendIndexHtml(response);
+    return;
+  }
+
   fs.stat(targetPath, (error, stats) => {
     if (!error && stats.isFile()) {
       sendFile(response, targetPath);
@@ -118,7 +155,7 @@ const server = http.createServer((request, response) => {
       return;
     }
 
-    sendFile(response, path.join(ROOT, "index.html"));
+    sendIndexHtml(response);
   });
 });
 
